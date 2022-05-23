@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aamosk
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning javascript
+- 💞️ I’m not currently looking to collaberate
+- 📫 How to reach me : alinaamoskalenko@gmail.com
